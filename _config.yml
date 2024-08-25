@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 author: Evans Doe Ocansey
 name: AIMS-ZA
-title: Experimental Mathematics with SageMath
+title: 
 email:
 description: >
-  EMS-2024-25 - Experimental Mathematics with SageMath - African Institute for Mathematical Sciences - South Africa
+  African Institute for Mathematical Sciences - South Africa
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -17,9 +17,9 @@ baseurl: "/aims-za" # the subpath of your site, e.g. /blog/
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: evansdoe
-google_analytics: UA-131744305-1
+# google_analytics: UA-131744305-1
 # youtube_channel: UCqlHIJTGYhiwQpNuPU5e2gg
-rss:  # notes rss
+# rss:  # notes rss
 
 # -----------------------------------------------------------------------------
 # Blog

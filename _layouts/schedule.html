@@ -2,7 +2,12 @@
 layout: default
 ---
 <div class="post">
-
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/contrib/auto-render.min.js"
+            onload="renderMathInElement(document.body);"></script>
+</head>
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <h2 class="post-description">{{ page.description }}</h2>
@@ -19,7 +24,7 @@ layout: default
         <tr>
           <th scope="col">Date</th>
           <th scope="col">Topics</th>
-          <th scope="col">Readings</th>
+          <th scope="col">Resources</th>
         </tr>
       </thead>
       <tbody>

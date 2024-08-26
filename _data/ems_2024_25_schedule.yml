@@ -119,4 +119,5 @@
             <li>Provide a step-by-step explanation of the conductor of \(\{3, 4\}\), including how to compute it and demonstrate that all \(N\) greater than the conductor can be expressed as \(3\,x + 4\,y\) for some positive integers \(x, y, \in \mathbb{Z}^{+}\).</li>
         </ul>
   readings:
-    - <a href="ems_2024_25_day_01_sagemath_introduction.ipynb">Day 01 — Jupyter Notebook</a><br/>
+    - <a href="ems_2024_25_day_00_table_of_contents.ipynb">Day 01 — Jupyter Notebook – 01</a><br/>
+    - <a href="ems_2024_25_day_01_sagemath_introduction.ipynb">Day 01 — Jupyter Notebook – 02</a><br/>

@@ -1,5 +1,5 @@
 ---
-layouts: course-table
+layouts: ems-course-table
 permalink: /ems/
 title: EMS-Courses
 ---

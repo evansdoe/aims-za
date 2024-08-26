@@ -1,2 +1,4 @@
-- course-id: EMS
-  course-name: Experimental Mathematics with SageMath
+- course-id: <a href="ems">EMS</a>
+  course-name: <a href="ems">Experimental Mathematics with <a href="http://www.sagemath.org">SageMath</a> </a> 
+  year: 
+    - <a href="ems/2024-25">2024-25</a>

@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /ems/2024-25/schedule/
+permalink: /ems/2024-25/ems-schedule/
 title: Schedule
 ---
 

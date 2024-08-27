@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ems/2024-25/syllabus/
-title: Syllabus
+permalink: /ems/2024-25/homework/
+title: Homework
 ---
 
 
@@ -12,25 +12,17 @@ title: Syllabus
 
 ### Course Format
 
-The course is anticipated to be conducted in-person due to its highly interactive and discussion-based format. Students are expected and encouraged to actively participate in discussions, collaborate and contribute their ideas on problems addressed during the lectures. 
-
-Initially, problems will be explored either on the board or with pen and paper before considering the use of the computer algebra software [SageMath](http://www.sagemath.org) for further experimentation. 
-
-Students will submit a daily report what we did in class to show their understanding, and to work on the daily exercises that will be given to them. Homework assignments to be submitted will contain some of the daily exercises, therefore, students are highly encouraged to do these daily exercises in the daily reports they will be submitting.
-
-At the end of the course, there will be group projects in which students will utilize the SageMath **@interact** feature to illustrate and explain a either a new or an existing scientific/mathematical concept. Students will work in groups and present their projects to the class on the final day of the course. Winners will be awarded with prizes.
+The course is expected to be in-person given its discussion-based approach. Students are expected to read papers ahead of each course session, and discussions will be moderated to ensure deep understanding of all papers and critical thinking of the paper’s strengths and possible avenues for future directions and improvements. The course is planned for 6 credit units. Optionally, students can register for 12 credit units, with the expectation to do a comprehensive research project as part of the semester. These course projects are expected to be done in teams, with the research topic to be in the realm of multimodal machine learning and pre-approved by the course instructors.
 
 **Website:** The main course website is available on online:
 
-  [https://evansdoe.github.io/aims-za/ems/2024-25/](https://evansdoe.github.io/aims-za/ems/2024-25/)
+[https://evansdoe.github.io/aims-za/ems/2024-25/](https://evansdoe.github.io/aims-za/ems/2024-25/)
 
-**Announcements:** We will be using Piazza for class communication and announcement. The system is highly catered to getting you help fast and efficiently from classmates and the instructors. Rather than emailing questions to the teaching staff, you are encouraged to post your questions on Piazza. You can post privately to the instructor and TAs through Piazza website.
+**Piazza:** We will be using Piazza for class communication and announcement. The system is highly catered to getting you help fast and efficiently from classmates and the instructors. Rather than emailing questions to the teaching staff, you are encouraged to post your questions on Piazza. You can post privately to the instructor and TAs through Piazza website.
 
 [https://piazza.com/cmu/spring2023/11866/home](https://piazza.com/cmu/spring2023/11866/home)
 
-**Homework Submission:** 
-  - Students are asked to submit their homework assignments by replying to the email they will receive from the tutors.
-  - For the final project work,
+**Canvas:** Students are asked to submit their project assignments through the website Canvas. This platform will be used for grading and to handle any request for re-grading. 
 
 [https://canvas.cmu.edu/courses/33773](https://canvas.cmu.edu/courses/33773)
 

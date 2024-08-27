@@ -5,7 +5,6 @@ title: Schedule
 ---
 A brief summary of the plan for the lecture, what went on in class and exercises related to what we did and what we will be possibly doing next time.
 
-### Table of Content
 - <a href="#day_01">Day 01</a> 
 
 {% assign current_module = 0 %}

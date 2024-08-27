@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ems/2024-25/syllabus/
-title: Syllabus
+title: Homework
 ---
 
 Latest version (in pdf) available [on Piazza](TODO add).

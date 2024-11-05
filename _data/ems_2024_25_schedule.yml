@@ -1,6 +1,6 @@
 - date: 11/04<a class="anchor" id="day_01"></a> 
   plan-title: >
-    <strong>Today's Plan</strong>
+    <a class="anchor" id="day_01_plan"><strong>Today's Plan</strong></a>
   plan-topics:
     - <strong>Course Goals</strong>
       <ol style="font-size:12px;">
@@ -47,7 +47,7 @@
         <li>Introduce the <a href="http://www.sagemath.org">SageMath</a> software in the computer lab, with hands-on experience using a provided <a href="ems_2024_25_01_sagemath_introduction.ipynb">Jupyter notebook</a>.</li>
       </ul>
   done-title: >
-    <strong>What we did</strong>
+    <a class="anchor" id="day_01_done"><strong>What we did</strong></a>
   done-topics:
     - <strong>Course Overview</strong>
         <ul style="font-size:12px;">
@@ -99,7 +99,7 @@
             <li>Allowed students to work through the rest of the <a href="ems_2024_25_day_01_sagemath_introduction.ipynb">Jupyter notebook</a> for the day and addressed questions asked by students to the whole class when necessary.</li>
         </ul>
   todo-title: >
-    <strong>What to do for next time did</strong>
+    <a class="anchor" id="day_01_todo"><strong>What to do for next time</strong></a>
   todo-topics:
    - <strong>Handed-in Assignment:</strong>
         <ul style="font-size:12px;">
@@ -124,9 +124,28 @@
             <li>List all numbers that cannot be expressed as \(2\,x + 5\,y\), \(3\,x + 5\,y\), and \(4\,x + 6\,y\), and explore when this set is finite.</li>
             <li>Provide a step-by-step explanation of the conductor of \(\{3, 5\}\), including how to compute it and demonstrate that all \(N\) greater than the conductor can be expressed as \(3\,x + 4\,y\) for some positive integers \(x, y, \in \mathbb{Z}^{+}\).</li>
         </ul>
-   - <strong>Back to <a href="#contents">Content</a></strong>
+   - <a href="#contents"><strong>Back to Content</strong></a>
   readings:
-    - <a href="ems_2024_25_day_00_table_of_contents.ipynb" target="_blank">Day 01 — Jupyter Notebook – 01</a><br/>
-    - <a href="ems_2024_25_day_01_sagemath_introduction.ipynb" target="_blank">Day 01 — Jupyter Notebook – 02</a><br/>
+    - <a href="ems_2024_25_day_00_table_of_contents.ipynb" target="_blank">Day 01 — Jupyter Notebook – 00</a><br/>
+    - <a href="ems_2024_25_day_01_sagemath_introduction.ipynb" target="_blank">Day 01 — Jupyter Notebook – 01</a><br/>
     - <a href="lecture-00.pdf" target="_blank">Day 01 — Lecture Slides - 00</a><br/>
     - <a href="lecture-01.pdf" target="_blank">Day 01 — Lecture Slides - 01</a><br/>
+
+
+- date: 12/04<a class="anchor" id="day_02"></a> 
+  plan-title: >
+    <a class="anchor" id="day_02_plan"><strong>Today's Plan</strong></a>
+  plan-topics:
+    - <strong>To Do</strong>
+  done-title: >
+    <a class="anchor" id="day_02_done"><strong>What we did</strong></a>
+  done-topics:
+    - <strong>To Do</strong>
+  todo-title: >
+    <a class="anchor" id="day_02_todo"><strong>What to do for next time</strong></a>
+  todo-topics:
+   - <strong>To Do</strong>
+   - <a href="#contents"><strong>Back to Content</strong></a>
+  readings:
+    - <a href="ems_2024_25_day_02_sagemath_introduction.ipynb" target="_blank">Day 02 — Jupyter Notebook – 02</a><br/>
+    - <a href="lecture-02.pdf" target="_blank">Day 02 — Lecture Slides - 02</a><br/>

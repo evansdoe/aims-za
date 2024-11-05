@@ -126,7 +126,7 @@
         </ul>
    - <a href="#contents"><strong>Back to Content</strong></a>
   readings:
-    - <a href="ems_2024_25_day_00_table_of_contents.ipynb" target="_blank">Day 01 — Jupyter Notebook – 00</a><br/>
+    #- <!-- <a href="ems_2024_25_day_00_table_of_contents.ipynb" target="_blank">Day 01 — Jupyter Notebook – 00</a><br/> -->
     - <a href="ems_2024_25_day_01_sagemath_introduction.ipynb" target="_blank">Day 01 — Jupyter Notebook – 01</a><br/>
     - <a href="lecture-00.pdf" target="_blank">Day 01 — Lecture Slides - 00</a><br/>
     - <a href="lecture-01.pdf" target="_blank">Day 01 — Lecture Slides - 01</a><br/>

@@ -14,6 +14,10 @@ A brief summary of the plan for the lecture, what went on in class and exercises
   - <a href="#day_02_plan">Plan for the day</a>
   - <a href="#day_02_done"> What we did</a>
   - <a href="#day_02_todo"> What to do next time<a>
+- <a href="#day_03">Day 03</a>
+  - <a href="#day_03_plan">Plan for the day</a>
+  - <a href="#day_03_done"> What we did</a>
+  - <a href="#day_03_todo"> What to do next time<a>
 {% assign current_module = 0 %}
 {% assign skip_classes = 0 %}
 {% assign prev_date = 0 %}

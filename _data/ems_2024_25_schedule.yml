@@ -2,7 +2,7 @@
   plan-title: >
     <a class="anchor" id="day_01_plan"><strong>Day's Plan</strong></a>
   plan-topics:
-    - <strong>Course Goals</strong>
+    - <strong style="font-size:14px;">Course Goals</strong>
       <ol style="font-size:14px;">
         <li>Understand mathematics as an experimental science using elementary number theory.</li>
         <li>Learn mathematical proof methods to prove conjectures discovered during exploration.</li>
@@ -14,34 +14,34 @@
       </ul>
     - <strong>Exploration Question</strong>
         <ul style="font-size:14px;">
-          <li><strong>Problem Statement</strong>
+          <li><strong style="font-size:14px;">Problem Statement</strong>
             <ul style="font-size:14px;">
               <li><i>Given coins of value a cents and b cents, determine what amounts of money can be obtained by combining them</i>.</li>
             </ul>
           </li>
-          <li><strong>Mathematical Formulation</strong>
+          <li><strong style="font-size:14px;">Mathematical Formulation</strong>
             <ul style="font-size:14px;">
               <li><i>Given positive integers \(a\) and \(b\), for which positive integers \(n\) do there exist non-negative integers \(x\) and \(y\) such that \(n = a\,x + b\,y\)?</i></li>
             </ul>
           </li>
         </ul>
-    - <strong>Problem Exploration</strong>
+    - <strong style="font-size:14px;">Problem Exploration</strong>
         <ul style="font-size:14px;">
           <li>Begin with easy cases:\(\,a = 2, b = 3; a = 3, b = 4\).</li>
           <li>Solve the first two cases together to demonstrate the approach.</li>
           <li>Group students to explore more cases independently and later in groups.</li>
         </ul>
-    - <strong>Concepts to Discover</strong>
+    - <strong style="font-size:14px;">Concepts to Discover</strong>
         <ul style="font-size:14px;">
           <li>The <b><i>conductor</i></b> (\(N\)):<i>the smallest integer \(N\) such that all \(n \geq N\) can be expressed as \(n = a\,x + b\,y\)</i>.</li>
           <li>The Frobenius number \(F\):the largest integer \(F\) such that no positive integers \(x\) and \(y\) exist with \(F = a\,x + b\,y\).</li>
         </ul>
-    - <strong>Group Work</strong>
+    - <strong style="font-size:14px;">Group Work</strong>
         <ul style="font-size:14px;">
           <li>Experiment with pairs of positive integers \(a\) and \(b\) to explore related questions.</li>
           <li>Encourage forming conjectures based on observations and use computers to explore complex examples (e.g., \(a = 19, b = 17\)).</li>
         </ul>
-    - <strong>Conclusion</strong>
+    - <strong style="font-size:14px;">Conclusion</strong>
       <ul style="font-size:14px;">
         <li>Use computers for more complex explorations.</li>
         <li>Introduce the <a href="http://www.sagemath.org">SageMath</a> software in the computer lab, with hands-on experience using a provided <a href="ems_2024_25_01_sagemath_introduction.ipynb">Jupyter notebook</a>.</li>
@@ -49,12 +49,12 @@
   done-title: >
     <a class="anchor" id="day_01_done"><strong>What we did</strong></a>
   done-topics:
-    - <strong>Course Overview</strong>
+    - <strong style="font-size:14px;">Course Overview</strong>
         <ul style="font-size:14px;">
             <li>Provided a brief overview of the main objective for the course. See <a href="lecture-00.pdf" target="_blank">Day 01 — Lecture Slides - 00</a></li>
             <li>Discussed the idea of mathematics as an experimental science using a problem statement.</li>
         </ul>
-    - <strong>Worked Examples</strong>
+    - <strong style="font-size:14px;">Worked Examples</strong>
         <ul style="font-size:14px;">
             <li>Solved two examples on the board
               <ul style="font-size:14px;">
@@ -69,12 +69,12 @@
               </ul>
             </li>
         </ul>
-    - <strong>Student Understanding:</strong>
+    - <strong style="font-size:14px;">Student Understanding:</strong>
         <ul style="font-size:14px;">
             <li>Noted some students struggled with understanding the definition of the conductor for a pair of positive integers.</li>
             <li>Wrote the definition of conductor on the board for clarity.</li>
         </ul>
-    - <strong>Class Discussion:</strong>
+    - <strong style="font-size:14px;">Class Discussion:</strong>
         <ul style="font-size:14px;">
             <li>Encouraged students to think of additional questions.</li>
             <li>Introduced a new question
@@ -82,7 +82,7 @@
                 <li>Given two positive integers \(a\) and \(b\), where \(b\) is a multiple of \(a\), what are the Frobenius number and conductor?</li>
               </ul></li>
         </ul>
-    - <strong>Group Work:</strong>
+    - <strong style="font-size:14px;">Group Work:</strong>
         <ul style="font-size:14px;">
             <li>Students worked in groups to explore the posed questions and explored other questions as well. 
                 <!-- <ul style="font-size:14px;">
@@ -101,17 +101,17 @@
   todo-title: >
     <a class="anchor" id="day_01_todo"><strong>What to do for next time</strong></a>
   todo-topics:
-   - <strong>Handed-in Assignment:</strong>
+   - <strong style="font-size:14px;">Handed-in Assignment:</strong>
         <ul style="font-size:14px;">
             <li>Due on Saturday, 9th November, 2024 before 21:00.</li>
             <li>Assignment will be available on the Homework page on Thursday, 7th November, 2024.</li>
         </ul>
-   - <strong>Daily Assignments:</strong>
+   - <strong style="font-size:14px;">Daily Assignments:</strong>
         <ul style="font-size:14px;">
             <li>Begin doing daily assignments to prepare for the hand-in assignments.</li>
             <li>Emphasize the importance of completing these daily tasks.</li>
         </ul>
-   - <strong>Exploration Tasks for Tomorrow:</strong>
+   - <strong style="font-size:14px;">Exploration Tasks for Tomorrow:</strong>
         <ul style="font-size:14px;">
             <li>Given two positive integers \(a\) and \(b\) below, can you list all the positive integers \(n\) that cannot be written as \(n = a\,x + b\,y\)?</li>
               <ul style="font-size:14px;">
@@ -287,3 +287,19 @@
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     - <p style="font-size:14px;">Restricted resources on mathematical proofs and techniques sent by email to students.</p>
+
+- date: 11/07<a class="anchor" id="day_04"></a> 
+  plan-title: >
+    <a class="anchor" id="day_04_plan"><strong>Day's Plan</strong></a>
+  plan-topics:
+    - <strong style="font-size:14px"> TBD</strong>
+  done-title: >
+    <a class="anchor" id="day_04_done"><strong>What we did</strong></a>
+  done-topics:
+    - <strong style="font-size:14px"> TBD</strong>
+  todo-title: >
+    <a class="anchor" id="day_04_todo"><strong>What to do for next time</strong></a>
+  todo-topics:
+    - <strong style="font-size:14px"> TBD</strong>
+  readings:
+    - - <strong style="font-size:14px"> TBD</strong>

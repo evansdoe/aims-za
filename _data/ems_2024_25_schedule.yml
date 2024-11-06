@@ -153,7 +153,35 @@
   done-title: >
     <a class="anchor" id="day_02_done"><strong>What we did</strong></a>
   done-topics:
-    - <strong>To Do</strong>
+    - <p style="font-size:14px;">
+        We gathered the data that students had collected thus far on the Frobenius number and conductor for certain values, but found it insufficient.
+      </p>
+    - <p style="font-size:14px;">
+        We then reviewed the notebook for Day 2, though we did not cover the exploratory questions in the notebook. I encouraged the students to formulate 
+        their own exploratory questions, resulting in the following list&#58;
+        <ul style="font-size:14px;">
+            <li>If \(a\) and \(b\) share a common factor greater than \(1\), is there a Frobenius number and conductor?</li>
+            <li>If \(a\) is even and \(b\) is odd, what are the Frobenius number and conductor?</li>
+            <li>If \(a\) and \(b\) are not coprime, what are the Frobenius number and conductor?</li>
+            <li>If the Frobenius number is infinite, is it always true that the conductor is also infinite, and vice versa?</li>
+            <li>Is there a case where a Frobenius number exists but not a conductor?</li>
+            <li>What are the conditions for the existence of a Frobenius number and conductor given \(a\) and \(b\)?</li>
+            <li>If a Frobenius number and conductor exist, are they always unique?</li>
+            <li>What happens if we consider more than two numbers, \(a\), \(b\), and \(c\)?</li>
+            <li>
+              Given that the Frobenius number and conductor exist, is there a relationship between the Frobenius number, 
+              conductor, \(a\), and \(b\)? If so, find it or identify the cases where such a relationship exists.
+            </li>
+            <li>If either \(a\) or bb equals \(1\) (but not both), does a Frobenius number and conductor exist?</li>
+            <li>If both \(a\) and \(b\) are \(1\), what are the Frobenius number and conductor?</li>
+        </ul>
+      </p>
+    - <p style="font-size:14px;">
+        I encouraged students to initially explore these questions using pen and paper before transitioning to their computers. Although students were able 
+        to explore some of the questions in writing, most encountered significant challenges in translating their exploration into code. To address this, I 
+        organized a one-hour tutorial session in the evening, for which the 
+        <a href="ems_2024_25_day_02_starting_to_program_tutorial_session.ipynb" target="_blank">notebook</a> used is available in the resource section.
+      </p>
   todo-title: >
     <a class="anchor" id="day_02_todo"><strong>What to do for next time</strong></a>
   todo-topics:
@@ -215,6 +243,7 @@
     - <a href="#contents"><strong>Back to Content</strong></a>
   readings:
     - <a href="ems_2024_25_day_02_starting_to_program.ipynb" target="_blank" style="font-size:14px;">Day 02 — Jupyter Notebook – 02</a><br/>
+    - <a href="ems_2024_25_day_02_starting_to_program_tutorial_session.ipynb" target="_blank" style="font-size:14px;">Tutorial — Jupyter Notebook – 02</a><br/>
     # - <a href="lecture-02.pdf" target="_blank" style="font-size:14px;">Day 02 — Lecture Slides - 02</a><br/>
 
 

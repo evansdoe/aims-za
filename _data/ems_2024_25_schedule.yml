@@ -272,7 +272,36 @@
   done-title: >
     <a class="anchor" id="day_03_done"><strong>What we did</strong></a>
   done-topics:
-    - <strong>To Do</strong>
+    - <p style="font-size:14px">
+        I gathered feedback from the students on their progress in the course, including their understanding of the material and overall well-being.
+      </p>
+    - <p style="font-size:14px">
+        We discussed the use of dictionaries instead of lists, and students were encouraged to modify the code in the tutorial notebook to incorporate 
+        dictionaries.
+      </p>
+    - <p style="font-size:14px">
+        We then proceeded to a discussion on mathematical proofs. The proof methods we covered included&#58;
+        <ul style="font-size:14px">
+          <li>Direct proofs</li>
+          <li>Proof by contrapositive</li>
+          <li>Proof by contradiction</li>
+        </ul>
+      </p>
+    - <p style="font-size:14px">
+        For each method, I explained the underlying concepts and worked through examples with the students, using implication statements as a basis. 
+        Students were also given opportunities to construct proofs individually and present their solutions to the class.
+      </p>
+    - <p style="font-size:14px">
+        I introduced the concept of a "design space" in the context of proving mathematical statements. This concept encourages students to identify 
+        their set of assumptions and determine precisely what needs to be proven. They can then use one of the proof strategies to reduce the problem 
+        to its essential components. We practiced this approach with examples, and I asked students to write formal proofs for some of these exercises, 
+        as demonstrated earlier on the board.
+      </p>
+    - <p style="font-size:14px">
+        I reminded the class that writing formal proofs will be part of their homework assignment, due on Saturday, 9th November. Additionally, I 
+        distributed resources on mathematical proofs and techniques for their reference. I explained the strategy of eliminating the \(\forall\) quantifier 
+        and encouraged students to review the material on proof by mathematical induction, which was also included in the resources shared with them.
+      </p>
   todo-title: >
     <a class="anchor" id="day_03_todo"><strong>What to do for next time</strong></a>
   todo-topics:

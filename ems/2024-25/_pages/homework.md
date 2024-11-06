@@ -42,5 +42,5 @@ _Please do not forget to read the general instruction for all homework assignmen
   - Use the method of proof by contradiction to prove the following statements:
     - Suppose $A \cap C \subseteq B$ and $a \in C$. Prove that $a \notin A \setminus B$.
     - Suppose that $A \subseteq B$, $a\in A$, and $a \notin B \setminus C$. Prove that $a \in C$.
-  - Suppose that $y + x = 2y - x$, and $x$ and $y$ are not both zero. Prove that $y \neq 0$.
+  - Suppose that $y + x = 2\,y - x$, and $x$ and $y$ are not both zero. Prove that $y \neq 0$.
   - Prove that for every natural number $n\in\mathbb{N}$, $3$ divides $(-n + n^3)$.

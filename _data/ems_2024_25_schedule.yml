@@ -1,48 +1,48 @@
 - date: 11/04<a class="anchor" id="day_01"></a> 
   plan-title: >
-    <a class="anchor" id="day_01_plan"><strong>Today's Plan</strong></a>
+    <a class="anchor" id="day_01_plan"><strong>Day's Plan</strong></a>
   plan-topics:
     - <strong>Course Goals</strong>
-      <ol style="font-size:12px;">
+      <ol style="font-size:14px;">
         <li>Understand mathematics as an experimental science using elementary number theory.</li>
         <li>Learn mathematical proof methods to prove conjectures discovered during exploration.</li>
         <li>Learn to use the <a href="http://www.sagemath.org" target="_blank">SageMath</a> software for computation and exploration.</li>
       </ol>
     - <strong>Lecture Introduction</strong>
-      <ul style="font-size:12px;">
+      <ul style="font-size:14px;">
         <li>Emphasize that understanding mathematics as an experimental science (Goal 1) and learning proof methods (Goal 2) are more important than, but complemented by, using the computer algebra system <a href="http://www.sagemath.org">SageMath</a> (Goal 3).</li>
       </ul>
     - <strong>Exploration Question</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
           <li><strong>Problem Statement</strong>
-            <ul style="font-size:12px;">
+            <ul style="font-size:14px;">
               <li><i>Given coins of value a cents and b cents, determine what amounts of money can be obtained by combining them</i>.</li>
             </ul>
           </li>
           <li><strong>Mathematical Formulation</strong>
-            <ul style="font-size:12px;">
+            <ul style="font-size:14px;">
               <li><i>Given positive integers \(a\) and \(b\), for which positive integers \(n\) do there exist non-negative integers \(x\) and \(y\) such that \(n = a\,x + b\,y\)?</i></li>
             </ul>
           </li>
         </ul>
     - <strong>Problem Exploration</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
           <li>Begin with easy cases:\(\,a = 2, b = 3; a = 3, b = 4\).</li>
           <li>Solve the first two cases together to demonstrate the approach.</li>
           <li>Group students to explore more cases independently and later in groups.</li>
         </ul>
     - <strong>Concepts to Discover</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
           <li>The <b><i>conductor</i></b> (\(N\)):<i>the smallest integer \(N\) such that all \(n \geq N\) can be expressed as \(n = a\,x + b\,y\)</i>.</li>
           <li>The Frobenius number \(F\):the largest integer \(F\) such that no positive integers \(x\) and \(y\) exist with \(F = a\,x + b\,y\).</li>
         </ul>
     - <strong>Group Work</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
           <li>Experiment with pairs of positive integers \(a\) and \(b\) to explore related questions.</li>
           <li>Encourage forming conjectures based on observations and use computers to explore complex examples (e.g., \(a = 19, b = 17\)).</li>
         </ul>
     - <strong>Conclusion</strong>
-      <ul style="font-size:12px;">
+      <ul style="font-size:14px;">
         <li>Use computers for more complex explorations.</li>
         <li>Introduce the <a href="http://www.sagemath.org">SageMath</a> software in the computer lab, with hands-on experience using a provided <a href="ems_2024_25_01_sagemath_introduction.ipynb">Jupyter notebook</a>.</li>
       </ul>
@@ -50,42 +50,42 @@
     <a class="anchor" id="day_01_done"><strong>What we did</strong></a>
   done-topics:
     - <strong>Course Overview</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Provided a brief overview of the main objective for the course. See <a href="lecture-00.pdf" target="_blank">Day 01 — Lecture Slides - 00</a></li>
             <li>Discussed the idea of mathematics as an experimental science using a problem statement.</li>
         </ul>
     - <strong>Worked Examples</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Solved two examples on the board
-              <ul style="font-size:12px;">
+              <ul style="font-size:14px;">
                 <li>\(a=2\), \(b=3\)</li>
                 <li>\(a=3\), \(b=4\)</li>
               </ul>
             </li>
             <li>Observed the Frobenius number and conductor for the pairs
-              <ul style="font-size:12px;">
+              <ul style="font-size:14px;">
                 <li>For \((2, 3)\) Frobenius number = \(1\), Conductor = \(2\)</li>
                 <li>For \((3, 4)\) Frobenius number = \(5\), Conductor = \(6\)</li>
               </ul>
             </li>
         </ul>
     - <strong>Student Understanding:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Noted some students struggled with understanding the definition of the conductor for a pair of positive integers.</li>
             <li>Wrote the definition of conductor on the board for clarity.</li>
         </ul>
     - <strong>Class Discussion:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Encouraged students to think of additional questions.</li>
             <li>Introduced a new question
-              <ul style="font-size:12px;">
+              <ul style="font-size:14px;">
                 <li>Given two positive integers \(a\) and \(b\), where \(b\) is a multiple of \(a\), what are the Frobenius number and conductor?</li>
               </ul></li>
         </ul>
     - <strong>Group Work:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Students worked in groups to explore the posed questions and explored other questions as well. 
-                <!-- <ul style="font-size:12px;">
+                <!-- <ul style="font-size:14px;">
                     <li>\(a = 9\), \(b = 11\)</li>
                     <li>\(a = 7\), \(b = 11\)</li>
                     <li>\(a = 5\), \(b = 7\)</li>
@@ -93,7 +93,7 @@
             </li>
         </ul>
     - <strong>Lab Session:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Conducted an introduction to the computer algebra system – <a href="http://www.sagemath.org">SageMath</a> – and guided students on how to start the software.</li>
             <li>Provided assistance to students as needed.</li>
             <li>Allowed students to work through the rest of the <a href="ems_2024_25_day_01_sagemath_introduction.ipynb">Jupyter notebook</a> for the day and addressed questions asked by students to the whole class when necessary.</li>
@@ -102,19 +102,19 @@
     <a class="anchor" id="day_01_todo"><strong>What to do for next time</strong></a>
   todo-topics:
    - <strong>Handed-in Assignment:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Due on Saturday, 9th November, 2024 before 21:00.</li>
             <li>Assignment will be available on the Homework page on Thursday, 7th November, 2024.</li>
         </ul>
    - <strong>Daily Assignments:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Begin doing daily assignments to prepare for the hand-in assignments.</li>
             <li>Emphasize the importance of completing these daily tasks.</li>
         </ul>
    - <strong>Exploration Tasks for Tomorrow:</strong>
-        <ul style="font-size:12px;">
+        <ul style="font-size:14px;">
             <li>Given two positive integers \(a\) and \(b\) below, can you list all the positive integers \(n\) that cannot be written as \(n = a\,x + b\,y\)?</li>
-              <ul style="font-size:12px;">
+              <ul style="font-size:14px;">
                     <li>\(a = 9\), \(b = 11\)</li>
                     <li>\(a = 7\), \(b = 11\)</li>
                     <li>\(a = 5\), \(b = 7\)</li>
@@ -134,9 +134,23 @@
 
 - date: 12/04<a class="anchor" id="day_02"></a> 
   plan-title: >
-    <a class="anchor" id="day_02_plan"><strong>Today's Plan</strong></a>
+    <a class="anchor" id="day_02_plan"><strong>Day's Plan</strong></a>
   plan-topics:
-    - <strong>To Do</strong>
+    <ul style="font-size:14px">
+        <li>Get feedback from students on their first daily report and last lecture.</li>
+        <li>Review the definitions of conductor and frobenius number.</li>
+        <li>Work on the following steps on the cyclical process of experimental mathematics&#58;</li>
+            <ol style="font-size:14px;">
+                <li>Start with a problem</li>
+                <li>Explore the problem by gathering enough data based of the posed problem.</li>
+                <li>Observe patterns within the data</li>
+                <li>Make intelligent conjecture(s)</li>
+                <li>Test the conjecture</li>
+                <li>Prove the conjecture</li>
+                <li>Generalize the conjecture</li>
+            </ol>
+        <li>Review  <a href="ems_2024_25_day_02_sagemath_introduction.ipynb" target="_blank">notebook</a> for Day 02</li>
+    </ul>
   done-title: >
     <a class="anchor" id="day_02_done"><strong>What we did</strong></a>
   done-topics:
@@ -144,8 +158,62 @@
   todo-title: >
     <a class="anchor" id="day_02_todo"><strong>What to do for next time</strong></a>
   todo-topics:
-   - <strong>To Do</strong>
-   - <a href="#contents"><strong>Back to Content</strong></a>
+    - <p style="font-size:14px;">
+          We will have a handed-in assignment (both computer and written) on Saturday 9th November, 2024. 
+          The problems to be handed-in will be on the Homework page on Thursday 7th November, 2024. 
+          The following problems will start getting you ready for it. You won't be able to do everything, 
+          but especially for <a href="#qxn4">4</a> and <a href="#qxn5">5</a>, I strongly encourage you to 
+          start <em>trying</em> things and writing down what works and what doesn't work. Then for your 
+          assignment, you will really know how to get going.
+      </p>
+    - <strong style="font-size:14px;">Questions</strong>
+        <ol style="font-size:14px;">
+            <li>
+              Mathematical Proofs and Proof Techniques.
+            </li>
+            <li>
+                Find out how to do the following things in SageMath&#58;
+                <ol style="font-size:14px;" type="a">
+                    <li>Write an interesting function with variable \(x\)</li>
+                    <li>Take its derivative and integral</li>
+                    <li>Plot it for \(0 \leq x \leq 10\)</li>
+                </ol>
+            </li>
+            <li>
+                Find out the commands/methods for
+                <ol style="font-size:14px;" type="a">
+                    <li>Making a diagonal matrix</li>
+                    <li>Finding the eigenvalues of a matrix</li>
+                    <li>Creating a new vector</li>
+                    <li>Taking the dot product of this vector with itself</li>
+                    <li>Finding the first \(100\) prime numbers</li>
+                    <li>Finding just the \(1000\)-th prime number</li>
+                </ol>
+            </li>
+            <li><a class="anchor" id="qxn4"></a>
+                Prove that if \(a\) divides \(x\) and \(a\) divides \(y\), then \(a\) divides \(mx + ny\) for any integers \(m, n\). 
+            </li>
+            <li>
+                Continue trying to explore the conductor. Here are more potential questions.
+                <ol style="font-size:14px;" type="a">
+                    <li>How <em>many</em> numbers are <em>not</em> writeable as \(ax + by\) for the sets which have a conductor? Do you see a pattern in how many numbers are not possible?</li>
+                    <li>How does the problem change if instead of requiring nonnegative \(x, y\), we require <em>positive</em> \(x, y\) instead?</li>
+                </ol>
+            </li>
+            <li><a class="anchor" id="qxn5"></a>
+                Create Sage code to do the following. Do not worry if you cannot get all of these, but you should start now to make as much progress as you can.
+                <ol style="font-size:14px;" type="a">
+                    <li>List 10 numbers of the form \(4 x + 5\).</li>
+                    <li>List (at least) 20 numbers of the form \(4x + 5y\).</li>
+                    <li>List (at least) 20 numbers of the form \(4x + 5y\), but in numerical order.</li>
+                    <li>Write a function to list \(n\) numbers of the form \(4x + 5\), where \(n\) is some positive integer.</li>
+                    <li>Write a function to list (at least) \(n\) numbers of the form \(4x + 5y\), where \(n\) is a positive integer.</li>
+                    <li>Write a function to list numbers of the form \(5x + 6y\).</li>
+                    <li>Write a function with documentation that lists many numbers, in order, of the form \(ax + by\) for arbitrary \(a\), \(b\).</li>
+                </ol>
+            </li>
+        </ol>
+    - <a href="#contents"><strong>Back to Content</strong></a>
   readings:
     - <a href="ems_2024_25_day_02_sagemath_introduction.ipynb" target="_blank">Day 02 — Jupyter Notebook – 02</a><br/>
-    - <a href="lecture-02.pdf" target="_blank">Day 02 — Lecture Slides - 02</a><br/>
+    # - <a href="lecture-02.pdf" target="_blank">Day 02 — Lecture Slides - 02</a><br/>

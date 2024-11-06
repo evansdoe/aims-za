@@ -6,15 +6,15 @@ title: Schedule
 A brief summary of the plan for the lecture, what went on in class and exercises related to what we did and what we will be possibly doing next time.
 
 #### <a id="contents">Contents </a>
-- <a href="#day_01">Day 01</a>
+- <a href="#day_01">Day 01 — 04.11.2024</a>
   - <a href="#day_01_plan">Plan for the day</a>
   - <a href="#day_01_done"> What we did</a>
   - <a href="#day_01_todo"> What to do next time<a>
-- <a href="#day_02">Day 02</a>
+- <a href="#day_02">Day 02 — 05.11.2024</a>
   - <a href="#day_02_plan">Plan for the day</a>
   - <a href="#day_02_done"> What we did</a>
   - <a href="#day_02_todo"> What to do next time<a>
-- <a href="#day_03">Day 03</a>
+- <a href="#day_03">Day 03 — 06.11.2024</a>
   - <a href="#day_03_plan">Plan for the day</a>
   - <a href="#day_03_done"> What we did</a>
   - <a href="#day_03_todo"> What to do next time<a>

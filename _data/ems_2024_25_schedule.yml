@@ -411,3 +411,41 @@
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     - - <strong style="font-size:14px"> TBD</strong>
+
+- date: 11/08<a class="anchor" id="day_05"></a> 
+  plan-title: >
+    <a class="anchor" id="day_05_plan"><strong>Day's Plan</strong></a>
+  plan-topics:
+    - <strong style="font-size:14px"> TBD</strong>
+  done-title: >
+    <a class="anchor" id="day_05_done"><strong>What we did</strong></a>
+  done-topics:
+    - <strong style="font-size:14px"> TBD</strong>
+  todo-title: >
+    <a class="anchor" id="day_05_todo"><strong>What to do for next time</strong></a>
+  todo-topics:
+    - <p style="font-size:14px;">
+          The <a href="/aims-za/ems/2024-25/homework/#first-assignment-saturday-9th-november-2024-at-2100">first handed-in assignment</a> 
+          is due Saturday 9th November 2024 at 21:00! See the <a href="/aims-za/ems/2024-25/homework">homework page</a>.
+      </p>
+    - <p style="font-size:14px;">
+        As preparation for tomorrow's class, you should also be exploring how to do calculus, linear algebra, differential equations, statistics, 
+        graph theory, number theory or some other area in SageMath; you will write your own mini-tutorial about this for the next handed-in homework assignment!
+      </p>
+    - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
+  readings:
+    - <p style="font-size:14px">
+        Some Useful SageMath Resources&#58;
+        <ul style="font-size:14px">
+          <li> <a href="https://www.sagemath.org/sagebook/english.html" target="_blank">https://www.sagemath.org/sagebook/english.html</a></li>
+          <li> <a href="https://www.sagemath.org/sagebook/french.html" target="_blank">https://www.sagemath.org/sagebook/french.html</a></li>
+          <li> <a href="https://doc.sagemath.org" target="_blank">https://doc.sagemath.org</a></li>
+          <li> <a href="https://www.sagemath.org/library.html" target="_blank">https://www.sagemath.org/library.html</a></li>
+          <li> <a href="https://www.sagemath.org/help.html" target="_blank">https://www.sagemath.org/help.html</a></li>
+          <li> <a href="https://www.sagemath.org/tour.html" target="_blank">https://www.sagemath.org/tour.html</a></li>
+          <li> <a href="https://wiki.sagemath.org/Teaching_with_SAGE" target="_blank">https://wiki.sagemath.org/Teaching_with_SAGE</a></li>
+          <li> <a href="https://wiki.sagemath.org/Talks" target="_blank">https://wiki.sagemath.org/Talks</a></li>
+          <li> <a href="https://wiki.sagemath.org/quickref" target="_blank">https://wiki.sagemath.org/quickref</a></li>
+          <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
+        </ul>
+      </p>

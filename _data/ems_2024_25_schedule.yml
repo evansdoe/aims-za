@@ -246,7 +246,6 @@
     - <a href="ems_2024_25_day_02_starting_to_program_tutorial_session.ipynb" target="_blank" style="font-size:14px;">Tutorial — Jupyter Notebook</a><br/>
     # - <a href="lecture-02.pdf" target="_blank" style="font-size:14px;">Day 02 — Lecture Slides - 02</a><br/>
 
-
 - date: 11/06<a class="anchor" id="day_03"></a> 
   plan-title: >
     <a class="anchor" id="day_03_plan"><strong>Day's Plan</strong></a>
@@ -392,11 +391,49 @@
   plan-title: >
     <a class="anchor" id="day_04_plan"><strong>Day's Plan</strong></a>
   plan-topics:
-    - <strong style="font-size:14px"> TBD</strong>
+    - <p style="font-size:14px">
+        Collect feedback from students on the previous night's tutorial session and feedback report.
+      </p>
+    - <p style="font-size:14px"> 
+        Conduct a brief review of the prior day's lecture on mathematical proofs and techniques.
+      </p>
+    - <p style="font-size:14px">
+        Engage in a discussion on proof by mathematical induction using Example 3.3.1 of the restricted resource.
+      </p>
+    - <p style="font-size:14px">
+        Demonstrate to students how a formal proof is structured using the Example 3.1.2 of the restricted resource.
+      </p>
+    - <p style="font-size:14px">
+        Explore the concept of divisibility and extended criteria related to the Frobenius number.
+      </p>
+    - <p style="font-size:14px">
+        Reframe the Frobenius problem from a geometric perspective, as presented in the day's notebook.
+      </p>
   done-title: >
     <a class="anchor" id="day_04_done"><strong>What we did</strong></a>
   done-topics:
-    - <strong style="font-size:14px"> TBD</strong>
+    - <p style="font-size:14px"> 
+        The session began with a 20-minute period dedicated to gathering student feedback on the daily reports. It was collectively 
+        decided that students will present today's report solely on the lecture section covering proof by mathematical induction.
+      </p>
+    - <p style="font-size:14px">
+        I provided students with a demonstration of a formal mathematical proof, using Example 3.1.2 from the restricted resource. 
+        Students were advised to adopt this style for writing proofs in their upcoming homework assignments.
+      </p>
+    - <p style="font-size:14px">
+        I introduced the concept of a mini-tutorial on a subject of each student's choice and explained the <code>@interact</code> feature, 
+        which they will encounter in their second and third assignments.
+      </p>
+    - <p style="font-size:14px">
+        We reviewed the day's notebook together, and students experimented with the <code>@interact</code> feature, which offers a geometric 
+        illustration of the Frobenius problem.
+      </p>
+    - <p style="font-size:14px">
+        I addressed student questions regarding the implementation of the <code>@interact</code> feature.
+      </p>
+    - <p style="font-size:14px">
+        The remaining lecture time was allocated for students to begin working on their homework assignments.
+      </p>
   todo-title: >
     <a class="anchor" id="day_04_todo"><strong>What to do for next time</strong></a>
   todo-topics:
@@ -416,11 +453,19 @@
   plan-title: >
     <a class="anchor" id="day_05_plan"><strong>Day's Plan</strong></a>
   plan-topics:
-    - <strong style="font-size:14px"> TBD</strong>
+    - <p style="font-size:14px"> 
+        We will finalize our exploration on conductors by going to higher dimensions and watch this <a href="https://www.youtube.com/watch?v=vNTSugyS038">video</a> 
+        that illustrates a practical application of the Frobenius problem.
+      </p>
+    - <p style="font-size:14px">
+        I will introduce our new exploration question on integer sum of squares and collect possible questions from students that could be explored in the next week.
+      </p>
   done-title: >
     <a class="anchor" id="day_05_done"><strong>What we did</strong></a>
   done-topics:
-    - <strong style="font-size:14px"> TBD</strong>
+    - <p style="font-size:14px"> 
+        TBD
+      </p>
   todo-title: >
     <a class="anchor" id="day_05_todo"><strong>What to do for next time</strong></a>
   todo-topics:

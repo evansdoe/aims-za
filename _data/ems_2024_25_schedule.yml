@@ -541,3 +541,74 @@
           <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
         </ul>
       </p>
+
+- date: 11/11<a class="anchor" id="day_06"></a> 
+  plan-title: >
+    <a class="anchor" id="day_06_plan"><strong>Day's Plan</strong></a>
+  plan-topics:
+    - <p style="font-size:14px">
+        We will remind ourselves of the new exploration question on integer sum of squares and the possible exploratory questions we collected on 
+        <a href="#day_05">Day 05</a>, see the <a href="ems_2024_25_day_05_sum_of_squares_and_plotting_with_students_questions">Jupyter Notebook</a>.
+      </p>
+    - <p style="font-size:14px">
+        We will divide ourselves into groups and collect enough data related to integer sum of squares in a tabular form on the board. Afterwards we will
+        observe the patterns and try to make some conjectures if possible. 
+      </p>
+    - <p style="font-size:14px">
+        We will go to the computer lab and discuss an appropriate datatype to encode our tabular data and in SageMath. Aftwards, we will have ourselves in 
+        groups and start exploring the questions we collected on <a href="#day_05">Day 05</a>.
+      </p>
+    - <p style="font-size:14px">
+        If the time permits, we will start plotting in SageMath and see how we can rethink the sum of squares problem geometrically.
+      </p>
+  done-title: >
+    <a class="anchor" id="day_06_done"><strong>What we did</strong></a>
+  done-topics:
+    - <p style="font-size:14px"> 
+        TBD
+      </p>
+    - <p style="font-size:14px">
+        TBD
+      </p>
+    - <p style="font-size:14px">
+        TBD
+      </p>
+    - <p style="font-size:14px">
+        TBD
+      </p>
+    - <p style="font-size:14px">
+        TBD
+      </p>
+    - <p style="font-size:14px">
+        TBD
+      </p>
+    - <p style="font-size:14px">
+        TBD
+      </p>
+  todo-title: >
+    <a class="anchor" id="day_06_todo"><strong>What to do for next time</strong></a>
+  todo-topics:
+    - <p style="font-size:14px;">
+          TBD
+      </p>
+    - <p style="font-size:14px;">
+        TBD
+      </p>
+    - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
+  readings:
+    - <a href="ems_2024_25_day_06_sum_of_squares_and_plotting.ipynb" target="_blank" style="font-size:14px;">Day 06 — Jupyter Notebook</a><br/>
+    - <p style="font-size:14px">
+        Some Useful SageMath Resources&#58;
+        <ul style="font-size:14px">
+          <li> <a href="https://www.sagemath.org/sagebook/english.html" target="_blank">https://www.sagemath.org/sagebook/english.html</a></li>
+          <li> <a href="https://www.sagemath.org/sagebook/french.html" target="_blank">https://www.sagemath.org/sagebook/french.html</a></li>
+          <li> <a href="https://doc.sagemath.org" target="_blank">https://doc.sagemath.org</a></li>
+          <li> <a href="https://www.sagemath.org/library.html" target="_blank">https://www.sagemath.org/library.html</a></li>
+          <li> <a href="https://www.sagemath.org/help.html" target="_blank">https://www.sagemath.org/help.html</a></li>
+          <li> <a href="https://www.sagemath.org/tour.html" target="_blank">https://www.sagemath.org/tour.html</a></li>
+          <li> <a href="https://wiki.sagemath.org/Teaching_with_SAGE" target="_blank">https://wiki.sagemath.org/Teaching_with_SAGE</a></li>
+          <li> <a href="https://wiki.sagemath.org/Talks" target="_blank">https://wiki.sagemath.org/Talks</a></li>
+          <li> <a href="https://wiki.sagemath.org/quickref" target="_blank">https://wiki.sagemath.org/quickref</a></li>
+          <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
+        </ul>
+      </p>

@@ -366,6 +366,23 @@
         </ol>
       </p>
     - <p style="font-size:14px">
+          Suppose \(n\) is an integer greater than \(1\) and \(n\) is not prime. Then \(-1 + 2^n\) is not prime.
+          <ul style="font-size:14px">
+              <li>
+                Identify the hypothesis ("<strong>givens</strong>") and conclusion of the statement ("<strong>goal</strong>""). 
+              </li>
+              <li>
+                Is the hypothesis true when \(n = 6\)? What does the theorem tell you in this instance? Is it right?
+              </li>
+              <li>
+                What can you conclude from the statement in the case \(n = 15\)? Check directly that this conclusion is correct.
+              </li>
+              <li>
+                What can you conclude from the statement in the case \(n = 21\)? Check directly that this conclusion is correct.
+              </li>
+          </ul>
+      </p>
+    - <p style="font-size:14px">
         Write a formal proof as I illustrated in class for the following statements&#58;
         <ol style="font-size:14px">
             <li>Suppose \(A \subseteq C\), and \(B\) and \(C\) are disjoint. Prove that if \(x \in A\) then \(x \notin B\).</li>

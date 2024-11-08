@@ -27,4 +27,4 @@ _Do not only do these assignments! Each lecture has assignments to help you revi
 
 ### First Assignment (Saturday, 9th November 2024, at 21:00)
 _Please do not forget to read the general instruction for all homework assignments._
- - [Assignment 1 Notebook]()
+ - [Assignment 1 Notebook](/aims-za/ems/2024-25/schedule/ems_2024_25_assignment_01_username.ipynb)

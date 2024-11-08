@@ -482,7 +482,34 @@
     <a class="anchor" id="day_05_done"><strong>What we did</strong></a>
   done-topics:
     - <p style="font-size:14px"> 
-        TBD
+        I concluded with remarks on the Frobenius problem, and we watched a video illustrating a practical application of this problem, specifically 
+        using the example of the number of chicken nuggets that cannot be ordered from McDonald's.
+      </p>
+    - <p style="font-size:14px">
+        We reviewed the day's notebook, and I introduced a new problem on integer sums of squares. Students contributed potential questions to be 
+        explored in Monday's lecture. The notebook with these student-posed questions is available in the resource section, marked with an asterisk.
+      </p>
+    - <p style="font-size:14px">
+        Students spent the remainder of the lecture working with SageMath. I noticed that several students were importing Python libraries like 
+        <code>matplotlib</code>, <code>numpy</code>, and <code>math</code>, so I reminded them that these packages are not required to be imported 
+        in SageMath.
+      </p>
+    - <p style="font-size:14px">
+        I encouraged students not to be intimidated by errors, explaining that reading error messages is a valuable step in debugging their code.
+      </p>
+    - <p style="font-size:14px">
+        I also demonstrated how to access the documentation for functions in SageMath, along with their source code. I emphasized that a useful 
+        approach to understanding how a function works is to read its documentation and to test the examples provided by copying them into a 
+        Jupyter notebook cell for further exploration to get a better understanding of the function.
+      </p>
+    - <p style="font-size:14px">
+        I encouraged students to review the helpful links I provided on the resource pages, which should support their work with SageMath and 
+        inspire them to contribute to open-source software.
+      </p>
+    - <p style="font-size:14px">
+        I concluded the lecture by reminding students of the upcoming homework assignment, due on Saturday, 9th November 2024 at 21:00. I also 
+        encouraged them to explore different areas of mathematics in SageMath for their mini-tutorial, which will be part of the next handed-in 
+        homework assignment.
       </p>
   todo-title: >
     <a class="anchor" id="day_05_todo"><strong>What to do for next time</strong></a>
@@ -492,12 +519,13 @@
           is due Saturday 9th November 2024 at 21:00! See the <a href="/aims-za/ems/2024-25/homework">homework page</a>.
       </p>
     - <p style="font-size:14px;">
-        As preparation for tomorrow's class, you should also be exploring how to do calculus, linear algebra, differential equations, statistics, 
+        As preparation for Monday's class, you should also be exploring how to do calculus, linear algebra, differential equations, statistics, 
         graph theory, number theory or some other area in SageMath; you will write your own mini-tutorial about this for the next handed-in homework assignment!
       </p>
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     - <a href="ems_2024_25_day_05_sum_of_squares_and_plotting.ipynb" target="_blank" style="font-size:14px;">Day 05 — Jupyter Notebook</a><br/>
+    - <a href="ems_2024_25_day_05_sum_of_squares_and_plotting_with_students_questions.ipynb" target="_blank" style="font-size:14px;"> * Day 05 — Jupyter Notebook with exploratory questions</a><br/>
     - <p style="font-size:14px">
         Some Useful SageMath Resources&#58;
         <ul style="font-size:14px">

@@ -25,6 +25,10 @@ _Do not only do these assignments! Each lecture has assignments to help you revi
 
 - Starred (*) exercises are more important; you should be working on them early and often. To pass the course you should try to do all the starred exercises.
 
-### First Assignment (Saturday, 9th November 2024, at 21:00)
+### First Assignment (Saturday, 9th November 2024, at 21:00 GMT+2)
 _Please do not forget to read the general instruction for all homework assignments._
  - [Assignment 1 Notebook](/aims-za/ems/2024-25/schedule/ems_2024_25_assignment_01_username.ipynb)
+
+### Second Assignment (Saturday, 16th November 2024, at 13:00 GMT+2)
+_Please do not forget to read the general instruction for all homework assignments._
+ - [Assignment 2 Notebook](/aims-za/ems/2024-25/schedule/ems_2024_25_assignment_02_username.ipynb)

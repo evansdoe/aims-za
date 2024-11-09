@@ -8,11 +8,11 @@
         <li>Learn mathematical proof methods to prove conjectures discovered during exploration.</li>
         <li>Learn to use the <a href="http://www.sagemath.org" target="_blank">SageMath</a> software for computation and exploration.</li>
       </ol>
-    - <strong>Lecture Introduction</strong>
+    - <strong style="font-size:14px;">Lecture Introduction</strong>
       <ul style="font-size:14px;">
         <li>Emphasize that understanding mathematics as an experimental science (Goal 1) and learning proof methods (Goal 2) are more important than, but complemented by, using the computer algebra system <a href="http://www.sagemath.org">SageMath</a> (Goal 3).</li>
       </ul>
-    - <strong>Exploration Question</strong>
+    - <strong style="font-size:14px;">Exploration Question</strong>
         <ul style="font-size:14px;">
           <li><strong style="font-size:14px;">Problem Statement</strong>
             <ul style="font-size:14px;">
@@ -92,7 +92,7 @@
                 </ul> -->
             </li>
         </ul>
-    - <strong>Lab Session:</strong>
+    - <strong style="font-size:14px;">Lab Session:</strong>
         <ul style="font-size:14px;">
             <li>Conducted an introduction to the computer algebra system – <a href="http://www.sagemath.org">SageMath</a> – and guided students on how to start the software.</li>
             <li>Provided assistance to students as needed.</li>

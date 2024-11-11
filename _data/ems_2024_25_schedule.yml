@@ -577,9 +577,13 @@
         We moved to the computer lab, where we discussed the optimal data structure for encoding the table we created.
         We determined that a **Python dictionary** would be the most suitable structure, organized as follows&#58;
         <ul style="font-size:14px">
-            <li><strong>Key:</strong> The sum of the squares, \( n = a^2 + b^2 \).</li>
-            <li><strong>Value:</strong> A list of two-element tuples, \([(a_1, b_1), \dots, (a_k, b_k)]\), such that 
-            \( n = a_i^2 + b_i^2 \) for \( 1 \leq i \leq k \), with \( k \geq 1 \).</li>
+            <li>
+              <strong>Key:</strong> The sum of the squares, \( n = a^2 + b^2 \).
+            </li>
+            <li>
+              <strong>Value:</strong> A list of two-element tuples, \([(a_1, b_1), \dots, (a_k, b_k)]\), such that 
+              \( n = a_i^2 + b_i^2 \) for \( 1 \leq i \leq k \), with \( k \geq 1 \).
+            </li>
         </ul>
       </p>
     - <p style="font-size:14px">
@@ -598,6 +602,7 @@
               created in Step 1 to filter the data and assess whether or not the conjecture holds. In some cases, 
               additional functions were needed to validate or refute the conjecture.
             </li>
+        </ol>
       </p>
     - <p style="font-size:14px">
         This structured approach allowed students to explore the conjectures and deepen their understanding of mathematical 

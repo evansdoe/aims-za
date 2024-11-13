@@ -124,7 +124,7 @@
             <li>List all numbers that cannot be expressed as \(2\,x + 5\,y\), \(3\,x + 5\,y\), and \(4\,x + 6\,y\), and explore when this set is finite.</li>
             <li>Provide a step-by-step explanation of the conductor of \(\{3, 5\}\), including how to compute it and demonstrate that all \(N\) greater than the conductor can be expressed as \(3\,x + 4\,y\) for some positive integers \(x, y, \in \mathbb{Z}^{+}\).</li>
         </ul>
-   - <a href="#contents"><strong>Back to Content</strong></a>
+   - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     #- <!-- <a href="ems_2024_25_day_00_table_of_contents.ipynb" target="_blank" style="font-size:14px;">Day 01 — Jupyter Notebook – 00</a><br/> -->
     - <a href="ems_2024_25_day_01_sagemath_introduction.ipynb" target="_blank" style="font-size:14px;">Day 01 — Jupyter Notebook</a><br/>

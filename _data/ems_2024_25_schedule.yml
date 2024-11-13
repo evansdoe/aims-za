@@ -240,7 +240,7 @@
                 </ol>
             </li>
         </ol>
-    - <a href="#contents"><strong>Back to Content</strong></a>
+    - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     - <a href="ems_2024_25_day_02_short_review_on_python_programming.ipynb" target="_blank" style="font-size:14px;">Day 02 — Jupyter Notebook</a><br/>
     - <a href="ems_2024_25_day_03_starting_to_program.ipynb" target="_blank" style="font-size:14px;">Day 02 — Jupyter Notebook</a><br/>
@@ -648,49 +648,44 @@
     <a class="anchor" id="day_07_plan"><strong>Day's Plan</strong></a>
   plan-topics:
     - <p style="font-size:14px">
-        TDB
+        We will begin by defining the congruence relation and applying it in our explorations.
       </p>
     - <p style="font-size:14px">
-        TDB 
+        I will encourage the students to consider the sum of squares from a geometric perspective, utilizing Sage's advanced plotting 
+        capabilities for visualization.
       </p>
     - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
+        Our session will conclude with further investigation of the \(9\) conjectures developed in class, along with work on the remaining 
+        \(18\) exploratory questions.
       </p>
   done-title: >
     <a class="anchor" id="day_07_done"><strong>What we did</strong></a>
   done-topics:
     - <p style="font-size:14px"> 
-        TDB
+        I introduced the concept of the modulo arithmetic and demonstrated its application in Sage, particularly for exploring the 
+        sum of squares to facilitate pattern observation.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Students then worked individually to investigate the nine conjectures they formulated during Monday's class.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Since most students did not complete their exploration of all nine conjectures, I encouraged them to make time to finish, 
+        as this will be submitted as their daily report for today.
       </p>
     - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
+        dditionally, I encouraged students to leverage Sage's advanced plotting features to explore the sum of squares problem from a 
+        geometric perspective.
       </p>
   todo-title: >
     <a class="anchor" id="day_07_todo"><strong>What to do for next time</strong></a>
   todo-topics:
     - <p style="font-size:14px;">
-        TDB
+        Begin exploring techniques in SageMath for areas such as calculus, linear algebra, differential equations, statistics, graph theory, 
+        number theory, or other mathematical domains. For your next homework submission, you will create a mini-tutorial covering your chosen 
+        topic.
       </p>
     - <p style="font-size:14px;">
-        TDB
-      </p>
-    - <p style="font-size:14px;">
-        TDB
+        Additionally, continue working on the conjectures and exploratory questions provided in today's notebook
       </p>
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:

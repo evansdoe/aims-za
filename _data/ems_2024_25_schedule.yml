@@ -131,6 +131,7 @@
     - <a href="lecture-00.pdf" target="_blank" style="font-size:14px;">Day 01 — Lecture Slides - 00</a><br/>
     - <a href="lecture-01.pdf" target="_blank" style="font-size:14px;">Day 01 — Lecture Slides - 01</a><br/>
 
+
 - date: 11/05<a class="anchor" id="day_02"></a> 
   plan-title: >
     <a class="anchor" id="day_02_plan"><strong>Day's Plan</strong></a>
@@ -246,6 +247,7 @@
     - <a href="ems_2024_25_day_03_starting_to_program.ipynb" target="_blank" style="font-size:14px;">Day 02 — Jupyter Notebook</a><br/>
     - <a href="ems_2024_25_day_03_starting_to_program_tutorial_session.ipynb" target="_blank" style="font-size:14px;">Tutorial — Jupyter Notebook</a><br/>
     # - <a href="lecture-02.pdf" target="_blank" style="font-size:14px;">Day 02 — Lecture Slides - 02</a><br/>
+
 
 - date: 11/06<a class="anchor" id="day_03"></a> 
   plan-title: >
@@ -405,6 +407,7 @@
   readings:
     - <p style="font-size:14px;">Restricted resources on mathematical proofs and techniques sent by email to students.</p>
 
+
 - date: 11/07<a class="anchor" id="day_04"></a> 
   plan-title: >
     <a class="anchor" id="day_04_plan"><strong>Day's Plan</strong></a>
@@ -466,6 +469,7 @@
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     - <a href="ems_2024_25_day_04_rethinking_problems.ipynb" target="_blank" style="font-size:14px;">Day 04 — Jupyter Notebook</a><br/>
+
 
 - date: 11/08<a class="anchor" id="day_05"></a> 
   plan-title: >
@@ -541,6 +545,7 @@
           <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
         </ul>
       </p>
+
 
 - date: 11/11<a class="anchor" id="day_06"></a> 
   plan-title: >
@@ -643,6 +648,7 @@
         </ul>
       </p>
 
+
 - date: 11/12<a class="anchor" id="day_07"></a>
   plan-title: >
     <a class="anchor" id="day_07_plan"><strong>Day's Plan</strong></a>
@@ -705,6 +711,7 @@
           <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
         </ul>
       </p>
+
 
 - date: 11/13<a class="anchor" id="day_08"></a>
   plan-title: >
@@ -840,3 +847,67 @@
           <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
         </ul>
       </p>
+
+
+- date: 11/15<a class="anchor" id="day_10"></a>
+  plan-title: >
+    <a class="anchor" id="day_10_plan"><strong>Day's Plan</strong></a>
+  plan-topics:
+    - <p style="font-size:14px">
+        TDB
+      </p>
+    - <p style="font-size:14px">
+        TDB
+      </p>
+    - <p style="font-size:14px">
+        TDB
+      </p>
+    - <p style="font-size:14px">
+        TDB
+      </p>
+  done-title: >
+    <a class="anchor" id="day_10_done"><strong>What we did</strong></a>
+  done-topics:
+    - <p style="font-size:14px"> 
+        TDB
+      </p>
+    - <p style="font-size:14px">
+        TDB
+      </p>
+    - <p style="font-size:14px">
+        TDB
+      </p>
+    - <p style="font-size:14px">
+        Homework assignments will be posted on the course website this afternoon.
+      </p>
+  todo-title: >
+    <a class="anchor" id="day_10_todo"><strong>What to do for next time</strong></a>
+  todo-topics:
+    - <p style="font-size:14px;">
+        TDB
+      </p>
+    - <p style="font-size:14px;">
+        TDB
+      </p>
+    - <p style="font-size:14px;">
+        TDB
+      </p>
+    - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
+  readings:
+    - <a href="ems_2024_25_day_10_pieces_of_numbers.ipynb" target="_blank" style="font-size:14px;">Day 09 — Jupyter Notebook</a><br/>
+    - <p style="font-size:14px">
+        Some Useful SageMath Resources&#58;
+        <ul style="font-size:14px">
+          <li> <a href="https://www.sagemath.org/sagebook/english.html" target="_blank">https://www.sagemath.org/sagebook/english.html</a></li>
+          <li> <a href="https://www.sagemath.org/sagebook/french.html" target="_blank">https://www.sagemath.org/sagebook/french.html</a></li>
+          <li> <a href="https://doc.sagemath.org" target="_blank">https://doc.sagemath.org</a></li>
+          <li> <a href="https://www.sagemath.org/library.html" target="_blank">https://www.sagemath.org/library.html</a></li>
+          <li> <a href="https://www.sagemath.org/help.html" target="_blank">https://www.sagemath.org/help.html</a></li>
+          <li> <a href="https://www.sagemath.org/tour.html" target="_blank">https://www.sagemath.org/tour.html</a></li>
+          <li> <a href="https://wiki.sagemath.org/Teaching_with_SAGE" target="_blank">https://wiki.sagemath.org/Teaching_with_SAGE</a></li>
+          <li> <a href="https://wiki.sagemath.org/Talks" target="_blank">https://wiki.sagemath.org/Talks</a></li>
+          <li> <a href="https://wiki.sagemath.org/quickref" target="_blank">https://wiki.sagemath.org/quickref</a></li>
+          <li> <a href="http://gregorybard.com/Sage.html" target="_blank">http://gregorybard.com/Sage.html</a></li>
+        </ul>
+      </p>
+

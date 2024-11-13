@@ -712,52 +712,56 @@
       </p>
 - date: 11/13<a class="anchor" id="day_08"></a>
   plan-title: >
-    <a class="anchor" id="day_07_plan"><strong>Day's Plan</strong></a>
+    <a class="anchor" id="day_08_plan"><strong>Day's Plan</strong></a>
   plan-topics:
     - <p style="font-size:14px">
-        TDB
+        While patterns can be helpful, today we will focus on the importance of not relying on them exclusively. 
+        Patterns may be necessary for forming conjectures, but they are not always reliable. Therefore, it is 
+        essential to develop skills in constructing and validating proofs.
       </p>
     - <p style="font-size:14px">
-        TDB 
+        We will organize into groups and work through today's notebook to practice reading and understanding mathematical proofs. 
       </p>
     - <p style="font-size:14px">
-        TDB
+        In the notebook for today, I introduce some concepts that may be new to some of you, offering further opportunities for exploration.
       </p>
     - <p style="font-size:14px">
-        TDB
+        You will have ample time to explore problems related to the sum of squares. I encourage you to work in groups.
       </p>
   done-title: >
-    <a class="anchor" id="day_06_done"><strong>What we did</strong></a>
+    <a class="anchor" id="day_08_done"><strong>What we did</strong></a>
   done-topics:
     - <p style="font-size:14px"> 
-        TDB
+        We began today's lecture by discussing the limitations of relying solely on patterns. Using the example of Fermat 
+        numbers—originally conjectured by Fermat to be prime—we illustrated how patterns can sometimes be misleading and emphasized 
+        the importance of constructing mathematical proofs.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Following this, I divided the students into groups to collaboratively work through the day's notebook. Most students progressed 
+        to the proof included in today's material. However, as no group was able to complete the section on the sum of squares, I encouraged 
+        them to finish this either independently or in group, noting that no daily report is required today.
       </p>
     - <p style="font-size:14px">
-        TDB
+        I also reminded students to complete the 18 questions posed in last Friday's lecture. 
+        See <a href="ems_2024_25_day_07_sum_of_squares_exploration_and_plotting.ipynb" target="_blank">Day 07 — Jupyter Notebook</a>
       </p>
     - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
+        Homework assignments will be posted on the course website this afternoon.
       </p>
   todo-title: >
-    <a class="anchor" id="day_07_todo"><strong>What to do for next time</strong></a>
+    <a class="anchor" id="day_08_todo"><strong>What to do for next time</strong></a>
   todo-topics:
     - <p style="font-size:14px;">
-        TDB
+        Begin exploring techniques in SageMath for areas such as calculus, linear algebra, differential equations, statistics, graph theory, 
+        number theory, or other mathematical domains. For your next homework submission, you will create a mini-tutorial covering your chosen 
+        topic.
       </p>
     - <p style="font-size:14px;">
-        TDB
+        Additionally, continue working on the conjectures and exploratory questions provided in today's notebook, and be sure to download the 
+        notebook for the second homework assignment.
       </p>
     - <p style="font-size:14px;">
-        TDB
+        Tomorrow, we will start a new experiment in the main lecture hall.
       </p>
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:

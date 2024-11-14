@@ -3,3 +3,5 @@
 **/.ipynb_checkpoints
 **/*.sws
 **/*.zip
+**/Day_*.ipynb
+**/ems_2020_*.ipynb

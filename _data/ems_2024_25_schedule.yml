@@ -791,16 +791,21 @@
     <a class="anchor" id="day_09_plan"><strong>Day's Plan</strong></a>
   plan-topics:
     - <p style="font-size:14px">
-        TDB
+        Please note that the second homework assignment has been uploaded, with a deadline of Saturday, November 16, at 13:00.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Today, we will focus on the topic of integer partitions. I will start by defining integer partitions and introducing 
+        relevant terminology, followed by an example for clarity.
       </p>
     - <p style="font-size:14px">
-        TDB
+        After the introduction, we will each work individually to compute the number of partitions of \(n\), where \(n \leq 10\).
       </p>
     - <p style="font-size:14px">
-        TDB
+        Following this exercise, I will demonstrate how to formulate meaningful questions related to integer partitions, 
+        which will allow you to develop and explore similar questions on your own.
+      </p>
+    - <p style="font-size:14px">
+        In the second hour, we will move to the computer lab for hands-on exploration of integer partitions.
       </p>
   done-title: >
     <a class="anchor" id="day_09_done"><strong>What we did</strong></a>

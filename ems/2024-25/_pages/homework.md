@@ -32,3 +32,6 @@ _Please do not forget to read the general instruction for all homework assignmen
 ### Second Assignment (Saturday, 16th November 2024, at 13:00 GMT+2)
 _Please do not forget to read the general instruction for all homework assignments._
  - [Assignment 2 Notebook](/aims-za/ems/2024-25/schedule/ems_2024_25_assignment_02_username.ipynb)
+
+### Third Assignment (Thursda, 21st November 2024, at 21:00 GMT+2)
+ - See the [projects page](/aims-za/ems/2024-25/projects) for more details. 

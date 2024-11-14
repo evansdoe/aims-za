@@ -8,9 +8,8 @@ title: Sage Interact Competition
 
 > **"Best scientific illustration making use of the Sage animation or @interact features."**
 
-- **Submission Deadline**: Friday 5th November by 21:00.
+- **Submission Deadline**: Thursday 21st November by 21:00.
 - **Winners announced** during class Friday.
-- Participation is optional but strongly encouraged!
 
 #### The submitted work should contain original ideas of students. Group work is encouraged! The jury will consider the following aspects of each work:
 - The originality of the idea
@@ -25,5 +24,5 @@ The [interact resources](https://wiki.sagemath.org/interact) might be a good sou
 2. **Explain it** as described above in ONE text cell in the worksheet.
 3. **Put your name or all members of a group clearly** in the explanation.
 4. **File Naming**: Call it `your_group_name_interact_submission` (for example, `group_1_interact_submission`) and download it as a Sage worksheet or a Jupyter notebook.
-5. **Submit**: Reply to the official announcement email from Evans, with the Sage interact worksheet or Jupyter notebook attached. Note that all worksheet submissions should contain the names of the group members.
+5. **Submit**: Reply to the official announcement email from the instructor, with the Sage interact worksheet or Jupyter notebook attached. Note that all worksheet submissions should contain the names of the group members.
 6. **Relax!**

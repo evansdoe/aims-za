@@ -811,16 +811,32 @@
     <a class="anchor" id="day_09_done"><strong>What we did</strong></a>
   done-topics:
     - <p style="font-size:14px"> 
-        TDB
+        Students were informed that the homework assignment has been uploaded, with a submission deadline of Saturday, November 16, at 13:00.
       </p>
     - <p style="font-size:14px">
-        TDB
+        I introduced the concept of integer partitions, providing definitions and illustrating relevant terminology with an example.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Students then worked individually to compute the partitions of \(n\) for \(n \leq 10\), while examining potential patterns and 
+        forming conjectures. This exercise led to two conjectures and seven exploratory questions, which have been included in the 
+        updated version of today's notebook.
       </p>
     - <p style="font-size:14px">
-        Homework assignments will be posted on the course website this afternoon.
+        During the second hour, we moved to the computer lab to review the first section of the notebook. Students were 
+        introduced to the datatypes used within the <code>Partitions</code> class in Sage. The modified notebook, containing 
+        the questions students raised about integer partitions, was subsequently shared with them via email.
+      </p>
+    - <p style="font-size:14px">
+        I also addressed all questions related to the second homework assignment.
+      </p>
+    - <p style="font-size:14px">
+        Students worked through the notebook, focusing particularly on reading the documentation for the <code>Partitions</code> 
+        class and conducting exploratory exercises.
+      </p>
+    - <p style="font-size:14px"> 
+      The lecture concluded with a reminder for students to explore the available Sage resources. In particular, the following 
+      resource is useful for working with integer partitions&#58; 
+      <a href="https://doc.sagemath.org/html/en/reference/combinat/sage/combinat/partition.html" target="_blank">SageMath Integer Partition Documentation</a>.
       </p>
   todo-title: >
     <a class="anchor" id="day_09_todo"><strong>What to do for next time</strong></a>
@@ -837,6 +853,8 @@
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
     - <a href="ems_2024_25_day_09_pieces_of_numbers.ipynb" target="_blank" style="font-size:14px;">Day 09 — Jupyter Notebook</a><br/>
+    - <a href="students-conjectures-and-exploratory-questions.pdf" target="_blank" style="font-size:14px;"> Students conjecture and exploratory questions</a><br/>
+    - <a href="ems_2024_25_day_09_pieces_of_numbers_updated_version.ipynb" target="_blank" style="font-size:14px;">Day 09 — Jupyter Notebook updated version</a><br/>
     - <p style="font-size:14px">
         Some Useful SageMath Resources&#58;
         <ul style="font-size:14px">

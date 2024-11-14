@@ -26,6 +26,7 @@ At the end of the course, there will be group projects in which students will ut
 
 **Announcements:** 
   - Means of communication will be via e-mail either from me or from the tutors.
+  - Major annoucements will be available at the Announcement section of the [course home page](/aims-za/ems/2024-25/#announcements).
 
 **Homework Submission:** 
   - Students are asked to submit their homework assignments by replying to the email they will receive from the tutors.

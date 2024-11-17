@@ -20,7 +20,7 @@ The submitted work should showcase the students' original ideas. Each submission
 - Explanation of ideas, including the application of Sage’s `@interact` feature
 - Effectiveness in communicating the concept clearly
 
-For additional inspiration and guidance, students may refer to the [interact resources](https://wiki.sagemath.org/interact) and [Wolfram Demonstrations](https://demonstrations.wolfram.com/) or explore other scientific illustrations available online. While online `@interact` examples can serve as inspiration, the submissions must primarily reflect the students' own work.
+For additional inspiration and guidance, students may refer to the <a href="https://wiki.sagemath.org/interact" target="_blank">interact resources</a> and <a href="https://demonstrations.wolfram.com/" target="_blank">Wolfram Demonstrations</a> or explore other scientific illustrations available online. While online `@interact` examples can serve as inspiration, the submissions must primarily reflect the students' own work.
 
 ### Submission Protocol:
 1. **Create an interact in ONE cell** within a Jupyter notebook.

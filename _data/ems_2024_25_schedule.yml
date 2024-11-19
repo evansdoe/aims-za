@@ -962,16 +962,26 @@
     <a class="anchor" id="day_11_plan"><strong>Day's Plan</strong></a>
   plan-topics:
     - <p style="font-size:14px">
-        TDB
+        Answer questions related to the <code>@interact</code> project.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Discuss arithmetic functions and their multiplicative properties.
       </p>
     - <p style="font-size:14px">
-        TDB
+        Define two additional arithmetic functions&#58;
+        <ul>
+            <li>\(\tau(n)\):= The number of positive divisors of a positive integer \(n\).</li>
+            <li>\(\sigma(n)\):= The sum of the positive divisors of a positive integer \(n\).</li>
+        </ul>
       </p>
     - <p style="font-size:14px">
-        TDB
+        Prove that \(\tau(n)\) is a multiplicative function and discuss steps in the proof.
+      </p>
+    - <p style="font-size:14px">
+        Implement \(\tau(n)\) and \(\sigma(n)\) in Sage.
+      </p>
+    - <p style="font-size:14px">
+        Collect questions from students about \(\tau(n)\) and \(\sigma(n)\) for further exploration.
       </p>
   done-title: >
     <a class="anchor" id="day_11_done"><strong>What we did</strong></a>

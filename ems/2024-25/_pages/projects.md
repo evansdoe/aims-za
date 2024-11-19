@@ -9,7 +9,7 @@ title: Sage Interact/Animate Group Presentations
 > **"Best scientific illustration making use of the Sage `animate` or `@interact` features."**
 
 
-- **Submission Deadline**: Wednesday, 20st November, by 21:00.
+- **Submission Deadline**: Wednesday, 20th November, by 21:00.
 - **Group Presentation**: Presentations will take place in class on Thursday. Every group member is required to participate in the presentation. Each group will have 10 minutes to present, followed by a 5-minute question and answer session.
 
 The submitted work should showcase the students' original ideas. Each submission will be evaluated based on the following criteria:

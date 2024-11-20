@@ -1114,16 +1114,16 @@
     <a class="anchor" id="day_13_done"><strong>What we did</strong></a>
   done-topics:
     - <p style="font-size:14px"> 
-        TDB
+        TBD
       </p>
     - <p style="font-size:14px">
-        TDB
+        TBD
       </p>
     - <p style="font-size:14px">
-        TDB
+        TBD
       </p>
     - <p style="font-size:14px">
-        Homework assignments will be posted on the course website this afternoon.
+        TBD
       </p>
   todo-title: >
     <a class="anchor" id="day_13_todo"><strong>What to do for next time</strong></a>
@@ -1139,7 +1139,7 @@
       </p>
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:
-    - <a href="ems_2024_25_day_13.ipynb" target="_blank" style="font-size:14px;">Day 13 — Jupyter Notebook</a><br/>
+    - <a href="ems_2024_25_day_13_practice_makes_perfect.ipynb" target="_blank" style="font-size:14px;">Day 13 — Jupyter Notebook</a><br/>
     - <p style="font-size:14px">
         Some Useful SageMath Resources&#58;
         <ul style="font-size:14px">

@@ -1253,10 +1253,10 @@
         </ol>
       </p>
     - <p style="font-size:14px">
-        Items 1, and 2 are due today at 21:00 GMT+2.
+        Items 1, and 2 are due <strong>today at 21:00 GMT+2</strong>.
       </p>
     - <p style="font-size:14px">
-        Items 3, and 4 are due Saturday at 13:00 GMT+2.
+        Items 3, and 4 are due <strong>Saturday at 13:00 GMT+2</strong>.
       </p>
   done-title: >
     <a class="anchor" id="day_15_done"><strong>What we did</strong></a>

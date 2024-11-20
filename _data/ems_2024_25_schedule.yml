@@ -996,7 +996,13 @@
         Proved that if  \(p\) is prime, then \(\tau(p) = 2\) and \(\sigma(p) = p + 1\).
       </p>
     - <p style="font-size:14px">
-        Homework assignments will be posted on the course website this afternoon.
+        Discussed the Fundamental Theorem of Arithmetic.
+      </p>
+    - <p style="font-size:14px">
+        Gathered questions about \(\tau(n)\) and \(\sigma(n)\) for further exploration using Sage.
+      </p>
+    - <p style="font-size:14px">
+        Students explored the questions they had posed.
       </p>
   todo-title: >
     <a class="anchor" id="day_11_todo"><strong>What to do for next time</strong></a>

@@ -1008,13 +1008,14 @@
     <a class="anchor" id="day_11_todo"><strong>What to do for next time</strong></a>
   todo-topics:
     - <p style="font-size:14px;">
-        TDB 
+        <strong>Prove Multiplicativity</strong>&#58; Show that for all positive integers \(n\), the sum of divisors function, \(\sigma(n)\), is multiplicative.
       </p>
     - <p style="font-size:14px;">
-        TDB
+        <strong>Derive General Formulas</strong>&#58; Derive a general formula for both \(\tau(n)\) and \(\sigma(n)\).  
       </p>
     - <p style="font-size:14px;">
-        TDB
+        <strong>Explore Properties</strong>&#58; Familiarize yourself with the properties of \(\tau(n)\) and \(\sigma(n)\) by exploring 
+        the questions provided in the updated version of today's notebook. Write a summary of your findings.
       </p>
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:

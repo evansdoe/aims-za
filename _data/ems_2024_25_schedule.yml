@@ -1120,43 +1120,33 @@
     <a class="anchor" id="day_13_plan"><strong>Day's Plan</strong></a>
   plan-topics:
     - <p style="font-size:14px">
-        TDB
+        Support students in completing their Sage <code>interact</code> group projects.
       </p>
     - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
-      </p>
-    - <p style="font-size:14px">
-        TDB
+        Groups that finish their work early work through 
+        <a href="ems_2024_25_day_13_practice_makes_perfect.ipynb" target="_blank" style="font-size:14px;"> today's notebook</a>.
       </p>
   done-title: >
     <a class="anchor" id="day_13_done"><strong>What we did</strong></a>
   done-topics:
     - <p style="font-size:14px"> 
-        TBD
+        Students worked on their Sage <code>@interact</code> group projects.
       </p>
     - <p style="font-size:14px">
-        TBD
-      </p>
-    - <p style="font-size:14px">
-        TBD
-      </p>
-    - <p style="font-size:14px">
-        TBD
+        No groups finished early, so we did not work through today's notebook.
       </p>
   todo-title: >
     <a class="anchor" id="day_13_todo"><strong>What to do for next time</strong></a>
   todo-topics:
     - <p style="font-size:14px;">
-        TDB
+        Continue working on your Sage <code>@interact</code> group projects.
       </p>
     - <p style="font-size:14px;">
-        TDB
+        Submit your Jupyter notebook for the Sage <code>@interact</code>/<code>animate</code> group project by 
+        <strong>oday at 21:00 GMT+2</strong>. To submit, reply to the email I sent you with the notebook attached.
       </p>
     - <p style="font-size:14px;">
-        TDB
+        Read the instruction on the <a href="/aims-za/ems/2024-25/projects">projects</a> page as you prepare for your presentation today.
       </p>
     - <a href="#contents" style="font-size:14px;"><strong>Back to Content</strong></a>
   readings:

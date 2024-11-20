@@ -14,10 +14,12 @@ title: Sage Interact/Animate Group Presentations
 
 The submitted work should showcase the students' original ideas. Each submission will be evaluated based on the following criteria:
 
+
+### Grading Protocol:
 - Originality of the concept
 - Quality of graphics and visual presentation
 - Clarity and scientific depth of the message
-- Explanation of ideas, including the application of Sage’s `@interact` feature
+- Explanation of ideas, including the application of Sage's `@interact` and/or `animate` feature(s).
 - Effectiveness in communicating the concept clearly
 
 For additional inspiration and guidance, students may refer to the <a href="https://wiki.sagemath.org/interact" target="_blank">interact resources</a> and <a href="https://demonstrations.wolfram.com/" target="_blank">Wolfram Demonstrations</a> or explore other scientific illustrations available online. While online `@interact` examples can serve as inspiration, the submissions must primarily reflect the students' own work.
